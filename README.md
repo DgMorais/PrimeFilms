@@ -27,7 +27,7 @@ A compilação é minificada e os nomes dos arquivos incluem os hashes.
 # Prime Films [English]
 This is a movie site where users can browse and discover new film and TV productions. The site includes a database of movies and TV series, with information about cast, synopsis, genre, age rating and ratings. This site is an open source project available on GitHub so that anyone can contribute and improve it.
 
-This project was made following the guidelines of the course [React Js from zero to advanced in practice](https://www.udemy.com/course/curso-reactjs) hosted and offered by palatforma [Udemy](https://udemyto view it in your browser..com)
+This project was made following the guidelines of the course [React Js from zero to advanced in practice](https://www.udemy.com/course/curso-reactjs) hosted and offered by palatforma [Udemy](https://udemy)
 
 For the project to work correctly locally, register on the site (TMDB)[https://www.themoviedb.org/], or if you already have it, go to settings->API and copy the API key to the .env file, inserting the value in the variable `REACT_APP_API_KEY`
 
