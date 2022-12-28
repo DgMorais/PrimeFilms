@@ -1,3 +1,9 @@
+# Prime Films
+
+Este é um site de filmes onde os usuários podem procurar e descobrir novas produções de cinema e TV. O site inclui uma base de dados de filmes e séries de TV, com informações sobre elenco, sinopse, gênero, classificação etária e avaliações. Este site é um projeto de código aberto disponível no GitHub para que qualquer pessoa possa contribuir e melhorá-lo.
+
+Este projeto foi feito seguindo as orientações do curso (React Js do zero ao avançado na pratica)[https://www.udemy.com/course/curso-reactjs] hospedado e oferecido pela palatforma [Udemy](https://udemy.com.br)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
