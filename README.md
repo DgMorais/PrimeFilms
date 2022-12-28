@@ -4,7 +4,7 @@ Este é um site de filmes onde os usuários podem procurar e descobrir novas pro
 
 Este projeto foi feito seguindo as orientações do curso [React Js do zero ao avançado na pratica](https://www.udemy.com/course/curso-reactjs) hospedado e oferecido pela palatforma [Udemy](https://udemy.com)
 
-Para o projeto funcionar localmente corretamente, faça um cadastro no site (TMDB)[https://www.themoviedb.org/], ou caso já possua, vá em configurações->API e copie a chave da API para arquivo .env, inserindo o valor na variável `REACT_APP_API_KEY`
+Para o projeto funcionar localmente corretamente, faça um cadastro no site [TMDB](https://www.themoviedb.org/), ou caso já possua, vá em configurações->API e copie a chave da API para arquivo .env, inserindo o valor na variável `REACT_APP_API_KEY`
 
 Versão de exemplo: [Prime Films Netlify](https://prime-films.netlify.app/)
 
@@ -29,7 +29,7 @@ This is a movie site where users can browse and discover new film and TV product
 
 This project was made following the guidelines of the course [React Js from zero to advanced in practice](https://www.udemy.com/course/curso-reactjs) hosted and offered by palatforma [Udemy](https://udemy)
 
-For the project to work correctly locally, register on the site (TMDB)[https://www.themoviedb.org/], or if you already have it, go to settings->API and copy the API key to the .env file, inserting the value in the variable `REACT_APP_API_KEY`
+For the project to work correctly locally, register on the site [TMDB](https://www.themoviedb.org/), or if you already have it, go to settings->API and copy the API key to the .env file, inserting the value in the variable `REACT_APP_API_KEY`
 
 Live Version: [Prime Films Netlify](https://prime-films.netlify.app/)
 
